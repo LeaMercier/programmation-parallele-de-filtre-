@@ -33,3 +33,5 @@ Ce projet a été divisé en trois étapes principales :
 - la réalisation d'un thread multythreadé afin de pouvoir appliquer les deux filtres précédents de manière parallèle sur une image passée en entrée
 
 On compare ensuite les deux versions afin de pouvoir faire une analyse des deux méthodes. Cette analyse est disponible ici : programmation-parallele-de-filtres/analyse/analys_du_résultat_français.pdf
+
+in collaboration with @DailyRabbit
