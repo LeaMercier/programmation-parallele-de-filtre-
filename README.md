@@ -1,4 +1,4 @@
-# programmation-parallele-de-filtre
+# Programmation parallèle et séquentiel de filtres
 
 ## Englich version
 
