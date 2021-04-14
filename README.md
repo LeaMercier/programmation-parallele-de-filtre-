@@ -1,4 +1,4 @@
-# Creation-of-a-mini-editeur
+# Programmation parallèle de filtres
 
 ## Englich version
 
